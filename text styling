@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<title>Typography</title>
+<style>
+
+.text1 {
+color:red; 
+   font-size: 30px
+}
+.p1 {
+color:blueviolet;
+font-family:'courier red', Courier monospace;
+}
+</style> 
+<body>
+   <h1>My Name Is Haroon</h1>
+
+<p class="text1">I Love To Play Football</p>
+
+<p class="p1">Welcome to codingal</p>
+</body>
+</html>
